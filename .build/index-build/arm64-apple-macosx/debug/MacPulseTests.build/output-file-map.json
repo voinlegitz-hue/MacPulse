@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/primary.swiftdeps"
+  },
+  "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests.dia"  }
+}

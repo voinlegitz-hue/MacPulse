@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/primary.swiftdeps"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MonitorWindowView.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/ProcessesView.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView.dia"  },
+  "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor.dia"  }
+}

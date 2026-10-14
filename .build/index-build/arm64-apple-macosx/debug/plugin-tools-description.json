@@ -1,0 +1,711 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.xctest/Contents/MacOS/MacPulsePackageTests",
+      "coverageBinaryPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.xctest/Contents/MacOS/MacPulsePackageTests",
+      "packagePath" : "/Users/legitz/Documents/MacPulse",
+      "productName" : "MacPulsePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.MacPulse-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/sources",
+      "importPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorWindowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/ProcessesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "MacPulse",
+      "moduleOutputPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulse.swiftmodule",
+      "objects" : [
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/AppDelegate.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ContentView.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/DashboardView.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MacPulseCalculations.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorModels.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorPreferences.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MonitorWindowView.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/MyApp.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/ProcessesView.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SettingsView.swift.o",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/SystemMonitor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macpulse"
+      ],
+      "outputFileMapPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulse.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/MonitorWindowView.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/ProcessesView.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift",
+        "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift"
+      ],
+      "tempsPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MacPulsePackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/sources",
+      "importPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulseTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MacPulsePackageTests",
+      "moduleOutputPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulsePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/include/MacPulsePackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macpulse"
+      ],
+      "outputFileMapPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulsePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MacPulseTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/sources",
+      "importPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulse.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MacPulseTests",
+      "moduleOutputPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulseTests.swiftmodule",
+      "objects" : [
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/MacPulseCalculationsTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macpulse"
+      ],
+      "outputFileMapPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules/MacPulseTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift"
+      ],
+      "tempsPath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "MacPulse" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MacPulse",
+      "-package-name",
+      "macpulse",
+      "-c",
+      "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/MonitorWindowView.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/ProcessesView.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift",
+      "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift",
+      "-I",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macpulse",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MacPulsePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MacPulsePackageTests",
+      "-package-name",
+      "macpulse",
+      "-c",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/include/MacPulsePackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macpulse",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MacPulseTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MacPulseTests",
+      "-package-name",
+      "macpulse",
+      "-c",
+      "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift",
+      "-I",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macpulse",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "MacPulse" : [
+
+    ],
+    "MacPulsePackageTests" : [
+      "MacPulseTests",
+      "MacPulse"
+    ],
+    "MacPulseTests" : [
+      "MacPulse"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : [
+      {
+
+      }
+    ]
+  },
+  "writeCommands" : {
+    "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MonitorWindowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/ProcessesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulse.build/sources"
+    },
+    "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/sources"
+    },
+    "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulseTests.build/sources"
+    },
+    "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

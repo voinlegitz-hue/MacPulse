@@ -1,0 +1,1678 @@
+[
+  {
+    "contents" : {
+      "guid" : "Workspace:/Users/legitz/Documents/MacPulse",
+      "name" : "MacPulse",
+      "path" : "/Users/legitz/Documents/MacPulse",
+      "projects" : [
+        "578610f445113e9dac5b233547109fb8458060ad3dd8ea84f20765c52368a177",
+        "5443d4eda2953aeb6e9c393f28c5b804a3c6507d55c5eecc252af90dbe0bbf67"
+      ]
+    },
+    "signature" : "7426d903248adf5a3a05b48bb401ebcc1a89945ef0c9895f8fbccf481bfe625b",
+    "type" : "workspace"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES[__platform_filter=driverkit]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=ios-maccatalyst]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=ios;ios-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=macos]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=tvos;tvos-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=watchos;watchos-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=xros;xros-simulator]" : "YES",
+            "CODE_SIGNING_REQUIRED" : "NO",
+            "CODE_SIGN_IDENTITY" : "",
+            "COMPILER_WORKING_DIRECTORY" : "$(WORKSPACE_DIR)",
+            "COPY_PHASE_STRIP" : "NO",
+            "DEBUG_INFORMATION_FORMAT" : "dwarf",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=driverkit]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=ios-maccatalyst]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=ios;ios-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=macos]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=tvos;tvos-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=watchos;watchos-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=xros;xros-simulator]" : "@rpath",
+            "ENABLE_NS_ASSERTIONS" : "YES",
+            "ENABLE_TESTABILITY" : "YES",
+            "ENABLE_TESTING_SEARCH_PATHS" : "YES",
+            "ENTITLEMENTS_REQUIRED" : "NO",
+            "GCC_OPTIMIZATION_LEVEL" : "0",
+            "GCC_PREPROCESSOR_DEFINITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE",
+              "DEBUG=1"
+            ],
+            "INDEX_ENABLE_DATA_STORE" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "KEEP_PRIVATE_EXTERNS" : "NO",
+            "LIBTOOL_NO_WARNING_FOR_NO_SYMBOLS" : "YES",
+            "LINKER_DRIVER" : "auto",
+            "MACOSX_DEPLOYMENT_TARGET" : "13.0",
+            "ONLY_ACTIVE_ARCH" : "YES",
+            "OTHER_CFLAGS" : [
+              "$(inherited)",
+              "-DXcode"
+            ],
+            "OTHER_LDRFLAGS" : [
+
+            ],
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "-DXcode"
+            ],
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SKIP_INSTALL" : "YES",
+            "SPECIALIZATION_SDK_OPTIONS[__platform_filter=macos]" : [
+
+            ],
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ],
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE",
+              "DEBUG"
+            ],
+            "SWIFT_INSTALL_OBJC_HEADER" : "NO",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "",
+            "SWIFT_OPTIMIZATION_LEVEL" : "-Onone",
+            "TARGETED_DEVICE_FAMILY" : "",
+            "TVOS_DEPLOYMENT_TARGET" : "15.0",
+            "USE_HEADERMAP" : "NO",
+            "WATCHOS_DEPLOYMENT_TARGET" : "9.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE:macpulse::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES[__platform_filter=driverkit]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=ios-maccatalyst]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=ios;ios-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=macos]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=tvos;tvos-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=watchos;watchos-simulator]" : "YES",
+            "CLANG_ENABLE_MODULES[__platform_filter=xros;xros-simulator]" : "YES",
+            "CODE_SIGNING_REQUIRED" : "NO",
+            "CODE_SIGN_IDENTITY" : "",
+            "COMPILER_WORKING_DIRECTORY" : "$(WORKSPACE_DIR)",
+            "COPY_PHASE_STRIP" : "YES",
+            "DEBUG_INFORMATION_FORMAT" : "dwarf-with-dsym",
+            "DEPLOYMENT_POSTPROCESSING" : "YES",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=driverkit]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=ios-maccatalyst]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=ios;ios-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=macos]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=tvos;tvos-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=watchos;watchos-simulator]" : "@rpath",
+            "DYLIB_INSTALL_NAME_BASE[__platform_filter=xros;xros-simulator]" : "@rpath",
+            "ENABLE_TESTING_SEARCH_PATHS" : "YES",
+            "ENTITLEMENTS_REQUIRED" : "NO",
+            "GCC_OPTIMIZATION_LEVEL" : "s",
+            "GCC_PREPROCESSOR_DEFINITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE"
+            ],
+            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "KEEP_PRIVATE_EXTERNS" : "NO",
+            "LIBTOOL_NO_WARNING_FOR_NO_SYMBOLS" : "YES",
+            "LINKER_DRIVER" : "auto",
+            "MACOSX_DEPLOYMENT_TARGET" : "13.0",
+            "OTHER_CFLAGS" : [
+              "$(inherited)",
+              "-DXcode"
+            ],
+            "OTHER_LDRFLAGS" : [
+
+            ],
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "-DXcode"
+            ],
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SKIP_INSTALL" : "YES",
+            "SPECIALIZATION_SDK_OPTIONS[__platform_filter=macos]" : [
+
+            ],
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ],
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE"
+            ],
+            "SWIFT_INSTALL_OBJC_HEADER" : "NO",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "",
+            "SWIFT_OPTIMIZATION_LEVEL" : "-Owholemodule",
+            "TARGETED_DEVICE_FAMILY" : "",
+            "TVOS_DEPLOYMENT_TARGET" : "15.0",
+            "USE_HEADERMAP" : "NO",
+            "WATCHOS_DEPLOYMENT_TARGET" : "9.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE:macpulse::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "defaultConfigurationName" : "Release",
+      "groupTree" : {
+        "children" : [
+          {
+            "children" : [
+
+            ],
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_0",
+            "name" : "AdditionalFiles",
+            "path" : "/",
+            "sourceTree" : "<absolute>",
+            "type" : "group"
+          },
+          {
+            "children" : [
+
+            ],
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_1",
+            "name" : "Binaries",
+            "path" : "/",
+            "sourceTree" : "<absolute>",
+            "type" : "group"
+          },
+          {
+            "children" : [
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_2::REF_0",
+                "name" : "MacPulseCalculationsTests.swift",
+                "path" : "MacPulseCalculationsTests.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_2",
+            "name" : "/Users/legitz/Documents/MacPulse/MyAppTests",
+            "path" : "/Users/legitz/Documents/MacPulse/MyAppTests",
+            "sourceTree" : "<absolute>",
+            "type" : "group"
+          },
+          {
+            "children" : [
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_0",
+                "name" : "AppDelegate.swift",
+                "path" : "AppDelegate.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_1",
+                "name" : "ContentView.swift",
+                "path" : "ContentView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_2",
+                "name" : "DashboardView.swift",
+                "path" : "DashboardView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_3",
+                "name" : "MacPulseCalculations.swift",
+                "path" : "MacPulseCalculations.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_4",
+                "name" : "MonitorModels.swift",
+                "path" : "MonitorModels.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_5",
+                "name" : "MonitorPreferences.swift",
+                "path" : "MonitorPreferences.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_6",
+                "name" : "MonitorWindowView.swift",
+                "path" : "MonitorWindowView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_7",
+                "name" : "MyApp.swift",
+                "path" : "MyApp.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_8",
+                "name" : "ProcessesView.swift",
+                "path" : "ProcessesView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_9",
+                "name" : "SettingsView.swift",
+                "path" : "SettingsView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_10",
+                "name" : "SystemMonitor.swift",
+                "path" : "SystemMonitor.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_3",
+            "name" : "/Users/legitz/Documents/MacPulse/MyApp",
+            "path" : "/Users/legitz/Documents/MacPulse/MyApp",
+            "sourceTree" : "<absolute>",
+            "type" : "group"
+          },
+          {
+            "fileType" : "folder.assetcatalog",
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_4",
+            "name" : "/Users/legitz/Documents/MacPulse/MyApp/Assets.xcassets",
+            "path" : "/Users/legitz/Documents/MacPulse/MyApp/Assets.xcassets",
+            "sourceTree" : "<absolute>",
+            "type" : "file"
+          },
+          {
+            "fileType" : "file",
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_5",
+            "name" : "$(CONFIGURATION_BUILD_DIR)/MacPulse_MacPulse.bundle",
+            "path" : "$(CONFIGURATION_BUILD_DIR)/MacPulse_MacPulse.bundle",
+            "sourceTree" : "<group>",
+            "type" : "file"
+          },
+          {
+            "children" : [
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_0",
+                "name" : "AppDelegate.swift",
+                "path" : "AppDelegate.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_1",
+                "name" : "ContentView.swift",
+                "path" : "ContentView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_2",
+                "name" : "DashboardView.swift",
+                "path" : "DashboardView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_3",
+                "name" : "MacPulseCalculations.swift",
+                "path" : "MacPulseCalculations.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_4",
+                "name" : "MonitorModels.swift",
+                "path" : "MonitorModels.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_5",
+                "name" : "MonitorPreferences.swift",
+                "path" : "MonitorPreferences.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_6",
+                "name" : "MonitorWindowView.swift",
+                "path" : "MonitorWindowView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_7",
+                "name" : "MyApp.swift",
+                "path" : "MyApp.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_8",
+                "name" : "ProcessesView.swift",
+                "path" : "ProcessesView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_9",
+                "name" : "SettingsView.swift",
+                "path" : "SettingsView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_10",
+                "name" : "SystemMonitor.swift",
+                "path" : "SystemMonitor.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:macpulse::MAINGROUP::REF_6",
+            "name" : "/Users/legitz/Documents/MacPulse/MyApp",
+            "path" : "/Users/legitz/Documents/MacPulse/MyApp",
+            "sourceTree" : "<absolute>",
+            "type" : "group"
+          }
+        ],
+        "guid" : "PACKAGE:macpulse::MAINGROUP",
+        "name" : "",
+        "path" : "",
+        "sourceTree" : "<group>",
+        "type" : "group"
+      },
+      "guid" : "PACKAGE:macpulse",
+      "path" : "/Users/legitz/Documents/MacPulse/Package.swift",
+      "projectDirectory" : "/Users/legitz/Documents/MacPulse",
+      "projectIsPackage" : "true",
+      "projectName" : "MacPulse",
+      "targets" : [
+        "97062d90794046fc2ef3da3b393fe994afd6fe1ca7e16be012bd8829aa600c6e",
+        "5a31585ee48474db7eb62a63d97ff1c18c95eacb9335224b339f627b8a9a6028",
+        "05d4520a6bad1ee86f7662bd0e1e178d80605d8042af783fce8856e7a29b38ca",
+        "24ae73592fbf4d4f30808ae7f911dceb6c486c8e3a229102429e70d1a32a07d1",
+        "46bca33a89d4f7ad45dbe33c3c77ec4f4f9459de80f7d658b8a5ef6eb73d82f1",
+        "0b7bbb5e399ea1c36c1c3a39f871a8baf256821bc725f785906ccd5aae1c260b"
+      ]
+    },
+    "signature" : "578610f445113e9dac5b233547109fb8458060ad3dd8ea84f20765c52368a177",
+    "type" : "project"
+  },
+  {
+    "contents" : {
+      "approvedByUser" : "true",
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "APPLE_TEST_BUNDLE_RPATH" : "$(APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_$(SHALLOW_BUNDLE:default=NO))",
+            "APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_NO" : "@loader_path/../../..",
+            "APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_YES" : "@loader_path/../..",
+            "BUILD_SERVER_PROTOCOL_TARGET_TAGS" : [
+              "$(inherited)",
+              "test"
+            ],
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "GENERATE_EMBED_IN_CODE_ACCESSORS" : "NO",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "INDEX_ENABLE_DATA_STORE" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "17.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "17.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(RPATH_ORIGIN)/Frameworks",
+              "$(RPATH_ORIGIN)/../Frameworks",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=driverkit]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=ios-maccatalyst]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=ios;ios-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=macos]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=tvos;tvos-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=watchos;watchos-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=xros;xros-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulseTests",
+            "PRODUCT_MODULE_NAME" : "MacPulseTests",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulseTests.symbolgraphs",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulseTests.symbolgraphs",
+            "TARGET_NAME" : "MacPulseTests",
+            "TARGET_TEMP_DIR_SUFFIX" : "-p",
+            "TVOS_DEPLOYMENT_TARGET" : "17.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "26.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "APPLE_TEST_BUNDLE_RPATH" : "$(APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_$(SHALLOW_BUNDLE:default=NO))",
+            "APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_NO" : "@loader_path/../../..",
+            "APPLE_TEST_BUNDLE_RPATH_SHALLOW_BUNDLE_YES" : "@loader_path/../..",
+            "BUILD_SERVER_PROTOCOL_TARGET_TAGS" : [
+              "$(inherited)",
+              "test"
+            ],
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "GENERATE_EMBED_IN_CODE_ACCESSORS" : "NO",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "INDEX_ENABLE_DATA_STORE" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "17.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "17.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(RPATH_ORIGIN)/Frameworks",
+              "$(RPATH_ORIGIN)/../Frameworks",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=driverkit]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=ios-maccatalyst]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=ios;ios-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=macos]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=tvos;tvos-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=watchos;watchos-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "LD_RUNPATH_SEARCH_PATHS[__platform_filter=xros;xros-simulator]" : [
+              "$(APPLE_TEST_BUNDLE_RPATH)",
+              "$(inherited)"
+            ],
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulseTests",
+            "PRODUCT_MODULE_NAME" : "MacPulseTests",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulseTests.symbolgraphs",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulseTests.symbolgraphs",
+            "TARGET_NAME" : "MacPulseTests",
+            "TARGET_TEMP_DIR_SUFFIX" : "-p",
+            "TVOS_DEPLOYMENT_TARGET" : "17.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "26.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_2::REF_0",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        },
+        {
+          "buildFiles" : [
+            {
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDPHASE_1::0",
+              "platformFilters" : [
+
+              ],
+              "targetReference" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable"
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests::BUILDPHASE_1",
+          "type" : "com.apple.buildphase.frameworks"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests",
+      "name" : "MacPulseTests-product",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests",
+        "name" : "$(EXECUTABLE_NAME)",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.bundle.unit-test",
+      "type" : "standard"
+    },
+    "signature" : "97062d90794046fc2ef3da3b393fe994afd6fe1ca7e16be012bd8829aa600c6e",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "approvedByUser" : "true",
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "17.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "17.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "$(RPATH_ORIGIN)"
+            ],
+            "LINKER_DRIVER" : "swiftc",
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulseTests-test-runner",
+            "PRODUCT_MODULE_NAME" : "MacPulseTests_test_runner",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_VERSION" : "5.0",
+            "TARGET_NAME" : "MacPulseTests-test-runner",
+            "TVOS_DEPLOYMENT_TARGET" : "17.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "26.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "17.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "17.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "$(RPATH_ORIGIN)"
+            ],
+            "LINKER_DRIVER" : "swiftc",
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulseTests-test-runner",
+            "PRODUCT_MODULE_NAME" : "MacPulseTests_test_runner",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_VERSION" : "5.0",
+            "TARGET_NAME" : "MacPulseTests-test-runner",
+            "TVOS_DEPLOYMENT_TARGET" : "17.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "26.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+
+          ],
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        },
+        {
+          "buildFiles" : [
+            {
+              "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner::BUILDPHASE_1::0",
+              "platformFilters" : [
+
+              ],
+              "targetReference" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests"
+            }
+          ],
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner::BUILDPHASE_1",
+          "type" : "com.apple.buildphase.frameworks"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner",
+      "name" : "MacPulseTests-test-runner",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-TARGET:MacPulseTests_test_runner",
+        "name" : "MacPulseTests-test-runner",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.tool.swiftpm-test-runner",
+      "type" : "standard"
+    },
+    "signature" : "5a31585ee48474db7eb62a63d97ff1c18c95eacb9335224b339f627b8a9a6028",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "approvedByUser" : "true",
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "MACOSX_DEPLOYMENT_TARGET" : "13.0",
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "$(OTHER_SWIFT_FLAGS_ENABLE_LIBFUZZER_$(ENABLE_LIBFUZZER))"
+            ],
+            "OTHER_SWIFT_FLAGS_ENABLE_LIBFUZZER_YES" : [
+              "-Xfrontend",
+              "-entry-point-function-name",
+              "-Xfrontend",
+              "MacPulse_main"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "MacPulse_MacPulse",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse",
+            "PRODUCT_MODULE_NAME" : "MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_INSTALL_MODULE" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TARGET_NAME" : "MacPulse",
+            "TARGET_TEMP_DIR_SUFFIX" : "-p",
+            "TVOS_DEPLOYMENT_TARGET" : "15.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "9.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "21.0",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "MACOSX_DEPLOYMENT_TARGET" : "13.0",
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "$(OTHER_SWIFT_FLAGS_ENABLE_LIBFUZZER_$(ENABLE_LIBFUZZER))"
+            ],
+            "OTHER_SWIFT_FLAGS_ENABLE_LIBFUZZER_YES" : [
+              "-Xfrontend",
+              "-entry-point-function-name",
+              "-Xfrontend",
+              "MacPulse_main"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "MacPulse_MacPulse",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse",
+            "PRODUCT_MODULE_NAME" : "MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_INSTALL_MODULE" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TARGET_NAME" : "MacPulse",
+            "TARGET_TEMP_DIR_SUFFIX" : "-p",
+            "TVOS_DEPLOYMENT_TARGET" : "15.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "9.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_0",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_1",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_2",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_3",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::3",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_4",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::4",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_5",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::5",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_6",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::6",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_7",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::7",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_8",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::8",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_9",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::9",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_3::REF_10",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::10",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_4",
+              "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0::11",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-RESOURCE:MacPulse",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse",
+      "name" : "MacPulse-product",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse",
+        "name" : "$(EXECUTABLE_NAME)",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.tool",
+      "type" : "standard"
+    },
+    "signature" : "05d4520a6bad1ee86f7662bd0e1e178d80605d8042af783fce8856e7a29b38ca",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "approvedByUser" : "true",
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "COREML_CODEGEN_LANGUAGE" : "None",
+            "COREML_COMPILER_CONTAINER" : "swift-package",
+            "EXECUTABLE_NAME" : "",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "resource",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse.resources",
+            "PRODUCT_MODULE_NAME" : "MacPulse_MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "TARGET_NAME" : "MacPulse_MacPulse",
+            "TARGET_TEMP_DIR_SUFFIX" : "-b"
+          },
+          "guid" : "PACKAGE-RESOURCE:MacPulse::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "COREML_CODEGEN_LANGUAGE" : "None",
+            "COREML_COMPILER_CONTAINER" : "swift-package",
+            "EXECUTABLE_NAME" : "",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "resource",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse.resources",
+            "PRODUCT_MODULE_NAME" : "MacPulse_MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "TARGET_NAME" : "MacPulse_MacPulse",
+            "TARGET_TEMP_DIR_SUFFIX" : "-b"
+          },
+          "guid" : "PACKAGE-RESOURCE:MacPulse::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_4",
+              "guid" : "PACKAGE-RESOURCE:MacPulse::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false",
+              "resourceRule" : "process"
+            }
+          ],
+          "guid" : "PACKAGE-RESOURCE:MacPulse::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.resources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+
+      ],
+      "guid" : "PACKAGE-RESOURCE:MacPulse",
+      "name" : "MacPulse_MacPulse",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-RESOURCE:MacPulse",
+        "name" : "MacPulse_MacPulse",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.bundle",
+      "type" : "standard"
+    },
+    "signature" : "24ae73592fbf4d4f30808ae7f911dceb6c486c8e3a229102429e70d1a32a07d1",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "approvedByUser" : "true",
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "COREML_CODEGEN_LANGUAGE" : "Swift",
+            "COREML_COMPILER_CONTAINER" : "swift-package",
+            "DEFINES_MODULE" : "YES",
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "GENERATE_EMBED_IN_CODE_ACCESSORS" : "YES",
+            "GENERATE_PRELINK_OBJECT_FILE" : "NO",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "MODULEMAP_FILE_CONTENTS" : "module MacPulse {\nheader \"MacPulse-Swift.h\"\nexport *\n}",
+            "MODULEMAP_PATH" : "$(GENERATED_MODULEMAP_DIR)/MacPulse.modulemap",
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "-Xfrontend",
+              "-entry-point-function-name",
+              "-Xfrontend",
+              "MacPulse_main"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "MacPulse_MacPulse",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse",
+            "PRODUCT_MODULE_NAME" : "MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "STRIP_INSTALLED_PRODUCT" : "NO",
+            "SUPPORTS_TEXT_BASED_API" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_OBJC_INTERFACE_HEADER_DIR" : "$(GENERATED_MODULEMAP_DIR)",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "MacPulse-Swift.h",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TAPI_DYLIB_INSTALL_NAME" : "MacPulse",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TARGET_BUILD_DIR" : "$(TARGET_BUILD_DIR)/ExecutableModules",
+            "TARGET_NAME" : "MacPulse--41C231300A0F60DE-testable",
+            "TARGET_TEMP_DIR_SUFFIX" : "-t"
+          },
+          "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+              "EMBED_PACKAGE_RESOURCE_BUNDLE_NAMES" : [
+                "$(inherited)",
+                "MacPulse_MacPulse"
+              ],
+              "FRAMEWORK_SEARCH_PATHS" : [
+                "$(BUILT_PRODUCTS_DIR)/PackageFrameworks",
+                "$(inherited)"
+              ],
+              "LD_RUNPATH_SEARCH_PATHS" : [
+                "$(RPATH_ORIGIN)",
+                "$(BUILT_PRODUCTS_DIR)/PackageFrameworks",
+                "$(inherited)"
+              ],
+              "LD_WARN_DUPLICATE_LIBRARIES" : "NO",
+              "LIBRARY_SEARCH_PATHS[__platform_filter=windows-msvc]" : [
+                "$(inherited)",
+                "$(TARGET_BUILD_DIR)/ExecutableModules"
+              ],
+              "OTHER_CFLAGS" : [
+                "-fmodule-map-file=$(GENERATED_MODULEMAP_DIR)/MacPulse.modulemap",
+                "$(inherited)"
+              ]
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "COREML_CODEGEN_LANGUAGE" : "Swift",
+            "COREML_COMPILER_CONTAINER" : "swift-package",
+            "DEFINES_MODULE" : "YES",
+            "DOCC_EXTRACT_PROJECT_HEADERS_DOCUMENTATION" : "YES",
+            "GENERATE_EMBED_IN_CODE_ACCESSORS" : "YES",
+            "GENERATE_PRELINK_OBJECT_FILE" : "NO",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "MODULEMAP_FILE_CONTENTS" : "module MacPulse {\nheader \"MacPulse-Swift.h\"\nexport *\n}",
+            "MODULEMAP_PATH" : "$(GENERATED_MODULEMAP_DIR)/MacPulse.modulemap",
+            "OTHER_SWIFT_FLAGS" : [
+              "$(inherited)",
+              "-Xfrontend",
+              "-entry-point-function-name",
+              "-Xfrontend",
+              "MacPulse_main"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "MacPulse_MacPulse",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "macpulse.MacPulse",
+            "PRODUCT_MODULE_NAME" : "MacPulse",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "STRIP_INSTALLED_PRODUCT" : "NO",
+            "SUPPORTS_TEXT_BASED_API" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_DISABLE_PARSE_AS_LIBRARY" : "NO",
+            "SWIFT_ENABLE_BARE_SLASH_REGEX" : "NO",
+            "SWIFT_LIBRARIES_ONLY" : "YES",
+            "SWIFT_OBJC_INTERFACE_HEADER_DIR" : "$(GENERATED_MODULEMAP_DIR)",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "MacPulse-Swift.h",
+            "SWIFT_PACKAGE_NAME" : "macpulse",
+            "SWIFT_VERSION" : "6",
+            "SYMBOL_GRAPH_EXTRACTOR_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TAPI_DYLIB_INSTALL_NAME" : "MacPulse",
+            "TAPI_EXTRACT_API_OUTPUT_DIR" : "$(TARGET_BUILD_DIR)/$(CURRENT_ARCH)/MacPulse.symbolgraphs",
+            "TARGET_BUILD_DIR" : "$(TARGET_BUILD_DIR)/ExecutableModules",
+            "TARGET_NAME" : "MacPulse--41C231300A0F60DE-testable",
+            "TARGET_TEMP_DIR_SUFFIX" : "-t"
+          },
+          "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+              "EMBED_PACKAGE_RESOURCE_BUNDLE_NAMES" : [
+                "$(inherited)",
+                "MacPulse_MacPulse"
+              ],
+              "FRAMEWORK_SEARCH_PATHS" : [
+                "$(BUILT_PRODUCTS_DIR)/PackageFrameworks",
+                "$(inherited)"
+              ],
+              "LD_RUNPATH_SEARCH_PATHS" : [
+                "$(RPATH_ORIGIN)",
+                "$(inherited)"
+              ],
+              "LD_WARN_DUPLICATE_LIBRARIES" : "NO",
+              "LIBRARY_SEARCH_PATHS[__platform_filter=windows-msvc]" : [
+                "$(inherited)",
+                "$(TARGET_BUILD_DIR)/ExecutableModules"
+              ],
+              "OTHER_CFLAGS" : [
+                "-fmodule-map-file=$(GENERATED_MODULEMAP_DIR)/MacPulse.modulemap",
+                "$(inherited)"
+              ]
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_0",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_1",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_2",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_3",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::3",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_4",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::4",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_5",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::5",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_6",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::6",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_7",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::7",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_8",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::8",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_9",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::9",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            },
+            {
+              "codeSignOnCopy" : "false",
+              "fileReference" : "PACKAGE:macpulse::MAINGROUP::REF_6::REF_10",
+              "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0::10",
+              "platformFilters" : [
+
+              ],
+              "removeHeadersOnCopy" : "false"
+            }
+          ],
+          "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-RESOURCE:MacPulse",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable",
+      "name" : "MacPulse",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-TARGET:MacPulse--41C231300A0F60DE-testable",
+        "name" : "$(EXECUTABLE_NAME)",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "org.swift.product-type.common.object",
+      "type" : "standard"
+    },
+    "signature" : "46bca33a89d4f7ad45dbe33c3c77ec4f4f9459de80f7d658b8a5ef6eb73d82f1",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse-MacPulsePackageTests.MacPulsePackageTests::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "PACKAGE-PRODUCT:macpulse-MacPulsePackageTests.MacPulsePackageTests::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "PACKAGE-PRODUCT:macpulse-MacPulsePackageTests.MacPulsePackageTests",
+      "name" : "MacPulsePackageTests-product",
+      "type" : "aggregate"
+    },
+    "signature" : "0b7bbb5e399ea1c36c1c3a39f871a8baf256821bc725f785906ccd5aae1c260b",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ]
+          },
+          "guid" : "AGGREGATE::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ]
+          },
+          "guid" : "AGGREGATE::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "defaultConfigurationName" : "Release",
+      "developmentRegion" : "en",
+      "groupTree" : {
+        "children" : [
+
+        ],
+        "guid" : "AGGREGATE::MAINGROUP",
+        "name" : "",
+        "path" : "",
+        "sourceTree" : "<group>",
+        "type" : "group"
+      },
+      "guid" : "AGGREGATE",
+      "path" : "/Users/legitz/Documents/MacPulse/Package.swift",
+      "projectDirectory" : "/Users/legitz/Documents/MacPulse",
+      "projectIsPackage" : "true",
+      "projectName" : "Aggregate",
+      "targets" : [
+        "80cfccb93542aed36c334d0d2e9fb153b03a7c690b00ed8502616deac4e55bcf",
+        "573c3840585db353a8fc9e2c58ff4f0da43a93cd352a8faa3090b869b11e0c8f"
+      ]
+    },
+    "signature" : "5443d4eda2953aeb6e9c393f28c5b804a3c6507d55c5eecc252af90dbe0bbf67",
+    "type" : "project"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-INCLUDING-TESTS::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-INCLUDING-TESTS::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulseTests.MacPulseTests",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-TARGET:MacPulseTests_test_runner",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-RESOURCE:MacPulse",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "ALL-INCLUDING-TESTS",
+      "name" : "AllIncludingTests",
+      "type" : "aggregate"
+    },
+    "signature" : "80cfccb93542aed36c334d0d2e9fb153b03a7c690b00ed8502616deac4e55bcf",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-EXCLUDING-TESTS::BUILDCONFIG_0",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-EXCLUDING-TESTS::BUILDCONFIG_1",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+
+      ],
+      "buildRules" : [
+
+      ],
+      "customTasks" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:macpulse_MacPulse.MacPulse",
+          "platformFilters" : [
+
+          ]
+        },
+        {
+          "guid" : "PACKAGE-RESOURCE:MacPulse",
+          "platformFilters" : [
+
+          ]
+        }
+      ],
+      "guid" : "ALL-EXCLUDING-TESTS",
+      "name" : "AllExcludingTests",
+      "type" : "aggregate"
+    },
+    "signature" : "573c3840585db353a8fc9e2c58ff4f0da43a93cd352a8faa3090b869b11e0c8f",
+    "type" : "target"
+  }
+]

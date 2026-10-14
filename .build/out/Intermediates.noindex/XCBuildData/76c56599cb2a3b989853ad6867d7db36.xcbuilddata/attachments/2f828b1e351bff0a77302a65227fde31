@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulse--41C231300A0F60DE-testable-primary.dia",
+    "emit-module-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulse--41C231300A0F60DE-testable-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulse--41C231300A0F60DE-testable-primary-emit-module.dia",
+    "pch" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulse--41C231300A0F60DE-testable-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulse--41C231300A0F60DE-testable-primary.swiftdeps"
+  },
+  "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/AppDelegate.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/ContentView.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/DashboardView.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MacPulseCalculations.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MacPulseCalculations~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MonitorModels.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorModels~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MonitorPreferences.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MonitorPreferences~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/MyApp.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/MyApp~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/SettingsView.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyApp/SystemMonitor.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulse--41C231300A0F60DE-testable-t.build/Objects-normal/arm64/SystemMonitor~partial.swiftmodule"
+  }
+}

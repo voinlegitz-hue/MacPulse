@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'MacPulse-product' in project 'MacPulse'
+➜ Explicit dependency on target 'MacPulse_MacPulse' in project 'MacPulse'
+Target 'MacPulse-product' in project 'MacPulse'
+➜ Explicit dependency on target 'MacPulse_MacPulse' in project 'MacPulse'
+Target 'MacPulse_MacPulse' in project 'MacPulse' (no dependencies)

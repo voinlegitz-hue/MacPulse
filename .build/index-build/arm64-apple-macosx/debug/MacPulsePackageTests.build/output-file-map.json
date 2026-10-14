@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/primary.swiftdeps"
+  },
+  "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner.d",
+    "object": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/legitz/Documents/MacPulse/.build/index-build/arm64-apple-macosx/debug/MacPulsePackageTests.build/runner.dia"  }
+}

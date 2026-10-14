@@ -1,0 +1,4 @@
+module MacPulse {
+header "MacPulse-Swift.h"
+export *
+}

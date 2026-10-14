@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseTests-primary.dia",
+    "emit-module-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseTests-primary-emit-module.dia",
+    "pch" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseTests-primary.swiftdeps"
+  },
+  "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/legitz/Documents/MacPulse/MyAppTests/MacPulseCalculationsTests.swift" : {
+    "const-values" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.swiftconstvalues",
+    "dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.d",
+    "diagnostics" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.dia",
+    "index-unit-output-path" : "/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.o",
+    "llvm-bc" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.bc",
+    "object" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.o",
+    "swift-dependencies" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests.swiftdeps",
+    "swiftmodule" : "/Users/legitz/Documents/MacPulse/.build/out/Intermediates.noindex/MacPulse.build/Debug/MacPulseTests-p.build/Objects-normal/arm64/MacPulseCalculationsTests~partial.swiftmodule"
+  }
+}
